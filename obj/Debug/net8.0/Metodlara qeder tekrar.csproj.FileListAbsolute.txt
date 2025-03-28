@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\bin\Debug\net8.0\Metodlara qeder tekrar.exe
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\bin\Debug\net8.0\Metodlara qeder tekrar.deps.json
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\bin\Debug\net8.0\Metodlara qeder tekrar.runtimeconfig.json
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\bin\Debug\net8.0\Metodlara qeder tekrar.dll
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\bin\Debug\net8.0\Metodlara qeder tekrar.pdb
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\Metodlara qeder tekrar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\Metodlara qeder tekrar.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\Metodlara qeder tekrar.AssemblyInfo.cs
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\Metodlara qeder tekrar.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\Metodlara qeder tekrar.dll
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\refint\Metodlara qeder tekrar.dll
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\Metodlara qeder tekrar.pdb
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\Metodlara qeder tekrar.genruntimeconfig.cache
+C:\Users\Acer\source\repos\Metodlara qeder tekrar\Metodlara qeder tekrar\obj\Debug\net8.0\ref\Metodlara qeder tekrar.dll
