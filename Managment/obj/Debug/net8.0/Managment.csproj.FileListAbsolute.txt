@@ -1,0 +1,15 @@
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.AssemblyInfoInputs.cache
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.AssemblyInfo.cs
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.csproj.CoreCompileInputs.cache
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.sourcelink.json
+C:\Users\I Novbe\source\repos\Managment\bin\Debug\net8.0\Managment.exe
+C:\Users\I Novbe\source\repos\Managment\bin\Debug\net8.0\Managment.deps.json
+C:\Users\I Novbe\source\repos\Managment\bin\Debug\net8.0\Managment.runtimeconfig.json
+C:\Users\I Novbe\source\repos\Managment\bin\Debug\net8.0\Managment.dll
+C:\Users\I Novbe\source\repos\Managment\bin\Debug\net8.0\Managment.pdb
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.dll
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\refint\Managment.dll
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.pdb
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\Managment.genruntimeconfig.cache
+C:\Users\I Novbe\source\repos\Managment\obj\Debug\net8.0\ref\Managment.dll
