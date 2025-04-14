@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DFD8B-B57A-4263-8945-8E1BE9401E4C}|ConsoleApp10.csproj|c:\\users\\i novbe\\source\\repos\\consoleapp10\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DFD8B-B57A-4263-8945-8E1BE9401E4C}|ConsoleApp10.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DFD8B-B57A-4263-8945-8E1BE9401E4C}|ConsoleApp10.csproj|c:\\users\\i novbe\\source\\repos\\consoleapp10\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DFD8B-B57A-4263-8945-8E1BE9401E4C}|ConsoleApp10.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B5DFD8B-B57A-4263-8945-8E1BE9401E4C}|ConsoleApp10.csproj|c:\\users\\i novbe\\source\\repos\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B5DFD8B-B57A-4263-8945-8E1BE9401E4C}|ConsoleApp10.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA5wEwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:00:01.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:49:36.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\I Novbe\\source\\repos\\ConsoleApp10\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwB8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T13:34:01.606Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
