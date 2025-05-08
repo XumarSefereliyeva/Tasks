@@ -1,6 +1,38 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\assets\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\assets\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\assets\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\assets\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\assets\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\assets\\img\\error-404-monochrome.svg",
+      "PackagePath": "staticwebassets\\Admin\\assets\\img\\error-404-monochrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\css\\styles.css",
+      "PackagePath": "staticwebassets\\Admin\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\js\\datatables-simple-demo.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\datatables-simple-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\Admin\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\Admin\\js\\scripts.js"
+    },
+    {
       "Id": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\wwwroot\\assets\\css\\style.css",
       "PackagePath": "staticwebassets\\assets\\css\\style.css"
     },

@@ -1,0 +1,27 @@
+﻿@model Product
+<div class="white_box mb_30">
+    <div class="box_header ">
+        <div class="main-title">
+            <h3 class="mb-0">Input select 1</h3>
+        </div>
+    </div>
+    <form>
+        <div class="mb-3">
+            <label class="form-label" for="exampleFormControlInput1">Name</label>
+            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+        <div class="mb-3">
+            <label class="form-label" for="exampleFormControlInput1">Description</label>
+            <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="ImageUrl" >ImgUrl</label>
+            <input asp-for="ImageUrl" type="text" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+        <div class="mb-3">
+            <label class="form-label" asp-for="Price">Price</label>
+            <input asp-for="Price" type="number" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
+        </div>
+       
+    </form>
+</div>

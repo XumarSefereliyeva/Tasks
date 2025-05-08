@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\product\\updata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\product\\updata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\product\\getproducts.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\areas\\admin\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\areas\\admin\\views\\product\\getproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\contexts\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\contexts\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|c:\\users\\ii novbe\\source\\repos\\frontbacktask\\frontbacktask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{98DA0D50-A3EF-4AB6-BC51-F0D4D8991CB2}|FrontBackTask\\FrontBackTask.csproj|solutionrelative:frontbacktask\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Updata.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\Updata.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\Product\\Updata.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\Updata.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\Product\\Updata.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:29:12.724Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:41:44.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:28:51.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GetProducts.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProducts.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProducts.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProducts.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProducts.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:28:30.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "GetProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProduct.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProduct.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProduct.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\Product\\GetProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:28:00.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T15:27:16.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwC0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T14:35:18.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AgIAAOkBAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T11:05:17.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "FrontBackTask\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Services\\ProductService.cs",
+              "RelativeToolTip": "FrontBackTask\\Services\\ProductService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wB4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:31:37.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIMAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T11:05:41.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FrontBackTask\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Models\\Product.cs",
+              "RelativeToolTip": "FrontBackTask\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:03:05.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "FrontBackTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "FrontBackTask\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:04:51.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Program.cs",
+              "RelativeDocumentMoniker": "FrontBackTask\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Program.cs",
+              "RelativeToolTip": "FrontBackTask\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAYwAwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T11:06:38.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Contexts\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "FrontBackTask\\Contexts\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\Contexts\\ProductDbContext.cs",
+              "RelativeToolTip": "FrontBackTask\\Contexts\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:56:05.713Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "FrontBackTask\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\FrontBackTask\\FrontBackTask\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "FrontBackTask\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-08T11:06:42.982Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
