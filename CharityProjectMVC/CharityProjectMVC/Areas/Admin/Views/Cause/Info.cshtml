@@ -1,0 +1,41 @@
+﻿@using CharityProjectMVC.Models
+@model Cause
+<!-- Table Start -->
+<div class="container-fluid pt-4 px-4">
+    <div class="row g-4">
+
+
+        <div class="col-sm-12 col-xl-6">
+            <div class="bg-secondary rounded h-100 p-4">
+                <h6 class="mb-4">Basic Table</h6>
+                <table class="table">
+                    <thead>
+                        <tr>
+                            <th scope="col">#</th>
+                            <th scope="col">Name</th>
+                            <th scope="col">Description</th>
+                            <th scope="col">Price</th>
+                            <th scope="col">ImgUrl</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                      
+                            <tr>
+                                <th > @Model.Id</th>
+                                <td>@Model.Name</td>
+                                <td>@Model.Description</td>
+                                <td>@Model.Price</td>
+                                <td> <img src="~/assets/images/@Model.ImgUrl"/></td>
+                            </tr>
+                        
+
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<!-- Table End -->

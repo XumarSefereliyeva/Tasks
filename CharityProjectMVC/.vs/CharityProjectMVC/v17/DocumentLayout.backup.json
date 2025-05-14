@@ -1,0 +1,398 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\controllers\\causecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\controllers\\causecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\services\\causeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\services\\causeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\cause\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\cause\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\cause\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\cause\\info.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\cause\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\cause\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\cause\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\cause\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\models\\cause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\models\\cause.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\exceptions\\causeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\exceptions\\causeexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\migrations\\20250514105926_createcausestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\migrations\\20250514105926_createcausestable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|c:\\users\\ii novbe\\source\\repos\\charityprojectmvc\\charityprojectmvc\\migrations\\20250514105830_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{950FD675-25A1-4AC9-9850-51AF9DD3B244}|CharityProjectMVC\\CharityProjectMVC.csproj|solutionrelative:charityprojectmvc\\migrations\\20250514105830_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Index.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:25:33.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CauseController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Controllers\\CauseController.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Controllers\\CauseController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Controllers\\CauseController.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Controllers\\CauseController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAADgv0AAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:04:32.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CauseService.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Services\\CauseService.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Services\\CauseService.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Services\\CauseService.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Services\\CauseService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAEwDwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:56:19.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Info.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Info.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Info.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Info.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Info.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:40:32.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAO4AAAAAAAAAAAAuwP0AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T10:26:17.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Create.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Create.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Create.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Create.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwCgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:38:20.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Update.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Update.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Update.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\Cause\\Update.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:48:52.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Program.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Program.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Program.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:26:53.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DashBoardController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Controllers\\DashBoardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:03:57.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:10:34.355Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:26:10.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\DashBoard\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:04:03.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Cause.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Models\\Cause.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Models\\Cause.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Models\\Cause.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Models\\Cause.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:25:10.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T12:11:03.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAQwK8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:06:05.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T11:06:15.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CauseException.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Exceptions\\CauseException.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Exceptions\\CauseException.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Exceptions\\CauseException.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Exceptions\\CauseException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T11:33:30.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "CharityProjectMVC\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-14T11:02:49.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Contexts\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:48:00.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250514105926_CreateCausesTable.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Migrations\\20250514105926_CreateCausesTable.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Migrations\\20250514105926_CreateCausesTable.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Migrations\\20250514105926_CreateCausesTable.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Migrations\\20250514105926_CreateCausesTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:59:26.097Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250514105830_init.cs",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Migrations\\20250514105830_init.cs",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Migrations\\20250514105830_init.cs",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Migrations\\20250514105830_init.cs",
+              "RelativeToolTip": "CharityProjectMVC\\Migrations\\20250514105830_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T10:58:30.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T10:26:50.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "CharityProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\II Novbe\\source\\repos\\CharityProjectMVC\\CharityProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "CharityProjectMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAQwIAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-14T10:26:38.238Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
